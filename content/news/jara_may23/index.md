@@ -1,7 +1,7 @@
 ---
 title: "JAR-association conference"
 subtitle: "May 2023"
-excerpt: "Report on judicial workload in Uzbekistan"
+excerpt: "Paper presentation at conference in Rome"
 date: 2023-05-26
 date_end: "2023-05-26"
 featured: true
