@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference on Metiri Consult</title>
+    <link>https://metiri.dk/categories/conference/</link>
+    <description>Recent content in conference on Metiri Consult</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://metiri.dk/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moldova conference</title>
+      <link>https://metiri.dk/news/moldova_sep23/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://metiri.dk/news/moldova_sep23/</guid>
+      <description>On September 20 I participated (online) in the Justice and Anticorruption Reforms Forum in Moldova. The conference was organized by the Legal Resources Centre (LRCM).
+In my presentation on court optimization I had the opportunity to reflect upon my previous collaboration with LRCM to analyze the judicial map in Moldova. I also gave a brief demonstration of a software application to compare various judicial map designs.
+A recording of the entire conference is available on Youtube.</description>
+    </item>
+    
+    <item>
+      <title>JAR-association conference</title>
+      <link>https://metiri.dk/news/jara_may23/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://metiri.dk/news/jara_may23/</guid>
+      <description>Participated in the inaugural JAR-association congress ‘Innovation in Judicial Systems: Human, Cyber and Beyond’ in Rome.
+I presented a paper titled &amp;ldquo;Explaining cross-country differences in the number of judges per capita&amp;rdquo;. Here is the abstract:
+It is rather common to focus on the number professional judges per capita when assessing the need for judges in various countries. The EU Rule of Law Report is just one example of this tendency. This simple indicator does however not take into account that the demand for justice in different countries may vary quite a lot because of socio-economic factors.</description>
+    </item>
+    
+  </channel>
+</rss>
