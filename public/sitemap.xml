@@ -2,49 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://metiri.dk/collection/day02/01-netlify/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://metiri.dk/blog/spoonful-series/01-spoonful/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://metiri.dk/collection/day01/01-github/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://metiri.dk/collection/prework/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://metiri.dk/collection/day01/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://metiri.dk/collection/day01/02-postcards/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://metiri.dk/blog/spoonful-series/02-spoonful/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://metiri.dk/collection/day02/02-blogdown/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://metiri.dk/collection/day02/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://metiri.dk/blog/spoonful-series/03-spoonful/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://metiri.dk/collection/day01/03-distill/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>https://metiri.dk/contact/</loc>
+    <lastmod>2023-10-19T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>https://metiri.dk/collection/day02/03-blogdown/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <loc>https://metiri.dk/form/</loc>
+    <lastmod>2023-10-19T13:38:41-06:00</lastmod>
+  </url><url>
+    <loc>https://metiri.dk/</loc>
+    <lastmod>2023-10-19T13:38:41-06:00</lastmod>
   </url><url>
     <loc>https://metiri.dk/news/tirana_oct23/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://metiri.dk/categories/</loc>
-    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://metiri.dk/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://metiri.dk/categories/mission/</loc>
@@ -88,9 +67,6 @@
   </url><url>
     <loc>https://metiri.dk/tags/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://metiri.dk/collection/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://metiri.dk/blog/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
@@ -136,12 +112,6 @@
   </url><url>
     <loc>https://metiri.dk/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://metiri.dk/contact/</loc>
-    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url><url>
-    <loc>https://metiri.dk/form/</loc>
-    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
     <loc>https://metiri.dk/about/sidebar/</loc>
   </url><url>
