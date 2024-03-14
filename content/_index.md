@@ -1,7 +1,7 @@
 ---
 title: "Jesper Wittrup"
 subtitle: "Making rule of law efficient"
-description: "The aim with my international projects is to improve efficiency in justice.  I have pioneered the development of a smart case weighting system which allows for a more robust and cost-effective assessment of judicial workload and allocation of resources. In addition, I provide interactive web-applications designed to support data-driven judicial management."
+description: "The aim with my international projects is to improve efficiency in justice. I have a strong track record of making sense out of complex and noisy data. I have pioneered the development of a smart case weighting system which allows for a more robust and cost-effective assessment of judicial workload and allocation of resources. In addition, I provide interactive web-applications designed to support data-driven judicial management."
 images:
   - kazakh_conf_renset.jpg
 image_left: true
