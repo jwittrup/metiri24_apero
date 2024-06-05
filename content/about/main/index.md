@@ -6,11 +6,12 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  I live in Aarhus, Denmark.  I do research and provide consulting services in Denmark and internationally. This website is dedicated to my international projects. 
+  I live in Denmark.  I carry out research and provide consulting services in Denmark and internationally. This website is dedicated to my international projects. 
   
   Besides smart case weighting and development of interactive software applications, I also provide advice on the following issues:
   
   - Analysis and redesign of judicial maps
+  - Judicial performance evaluation.
   - Judicial budgeting
   - Judicial statistics
   - Structural assessment of the organization of judiciaries
