@@ -1,7 +1,7 @@
 ---
 title: "Backlog reduction in Tirana"
 subtitle: "October 2023"
-excerpt: "From late September to early October I was on a 9-day mission to Tirana"
+excerpt: "Mission to Tirana from late September to early October"
 date: 2023-10-05
 date_end: "2023-10-05"
 featured: true
