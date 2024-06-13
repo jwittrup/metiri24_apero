@@ -9,6 +9,7 @@ intro: |
  - PhD in political science. Dissertation on design of judicial institutions and their effectiveness. 
  - Worked for five years in the Danish Courts Administration, focusing on performance measurement and management.
  - Have for over 20 years provided advice to governments and organizations on a wide range of managerial issues, especially focused on the judicial sector, the educational sector and local governments.
+ - Contributor to the EU network against corruption. Member of the Judicial Aministration Research Association (JARA) and the International Association of Court Administrators (IACA). 
 
 ---
 
