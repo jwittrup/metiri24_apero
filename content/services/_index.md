@@ -3,6 +3,10 @@ title: ""
 layout: single
 ---
 
+# Performance management
+Successful performance measurement requires a lot of effort. It is crucial, of course, to choose the right indicators, but it is also almost always also necessary to clean messy data and to analyze the data thoroughly. Most importantly, the indicators need to be presented and applied in the most effective way. I have a wealth of experience helping organizations through all those phases.
+
+
 # Smart case weighting
 Any serious assessment of judicial performance - whether at court or individual level - requires some sort of case weighting. Unfortunately, the traditional approach to case weighting is very time-consuming. In addition the adopted weights need to be updated and reassessed frequently. 
 
