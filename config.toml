@@ -120,10 +120,15 @@ enableEmoji = true
     url = "/project/"
     weight = 5
   [[menu.header]]
+    name = "Publications"
+    title = "Selected online publications"
+    url = "/publications/"
+    weight = 6
+  [[menu.header]]
     name = "Login"
     title = "Client login"
     url = "https://www.witjes.dk/login"
-    weight = 6 
+    weight = 7 
     
   # Configure footer  
   [[menu.footer]]
