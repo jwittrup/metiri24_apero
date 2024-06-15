@@ -14,6 +14,12 @@ Elene Janelidze and Mariam Makishvili), August 2018.
 
 [Apples to oranges: benchmarking vocational education and training programmes](https://www.tandfonline.com/doi/abs/10.1080/09243453.2016.1247731) (with Peter Bogetoft). School Effectiveness and School Improvement, Volume 28, 2017 - Issue 2.
 
+[Specialisation of judges and feasibility of creating administrative courts in the Republic of Moldova](https://crjm.org/wp-content/uploads/2014/06/2014-Study-Specialis-Judges-MD_en.pdf) (with Nadejda Hriptievschi and Vladislav Gribincea)
 
+[Optimization of the judicial map in the Republic of Moldova](https://www.justice.gov.md/public/files/file/reforma_sectorul_justitiei/pilonstudiu1/Studiu_Optimiz_Hartii_Jud_-_CRJM-2014_en_2.pdf) (with Nadejda Hriptievschi and Vladislav Gribincea)
+
+[International Conference on Optimization of Court Performance and Resource Allocation](https://courtoptimization.wixsite.com/ewmi/papers). Bucharest, Romania.
+
+[Analysis of the Organization of Court Administration in Ukraine](https://newjustice.org.ua/wp-content/uploads/2018/06/SJA_Structural_Assessment_JW_eng.pdf).
 
 
