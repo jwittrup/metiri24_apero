@@ -20,6 +20,6 @@ categories:
 
 Simple comparison of the number of judges per capita gives only limited information about relative judicial needs. As I show in a recently [published article](https://iacajournal.org/articles/10.36745/ijca.581), one also must consider social, demographic, political and economic variables, as well as systemic differences between the compared judiciaries. 
 
-The particular methodology applied in this paper has been developed as part of a project for assessing the need for judges in Georgia. 
+The particular methodology applied in this paper has been developed as part of a project for [assessing the need for judges in Georgia](https://ewmi-ruleoflawgeo.org/uploads/files/4566AssessmentoftheneedforjudgesinGeorgia-ENG.pdf.pdf). 
 
 
