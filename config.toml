@@ -127,7 +127,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Login"
     title = "Client login"
-    url = "https://www.witjes.dk/login"
+    url = "https://witjes.dk/login"
     weight = 7 
     
   # Configure footer  
