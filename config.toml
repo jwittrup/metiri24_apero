@@ -115,9 +115,8 @@ enableEmoji = true
     url = "/news/"
     weight = 4
   [[menu.header]]
-    name = "Projects"
-    title = "Recent projects"
-    url = "/project/"
+    name = "CV"
+    url = "/docs/CV2025.pdf"
     weight = 5
   [[menu.header]]
     name = "Publications"
