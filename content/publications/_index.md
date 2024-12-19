@@ -3,6 +3,12 @@ title: Selected online publications
 layout: single
 ---
 
+[Efficiency in Danish Local Governments What Sets the Best Apart](https://en.rockwoolfonden.dk/publications/efficiency-in-danish-local-governments-what-sets-the-best-apart/) (with Peter Bogetoft). Rockwool Foundation Study Paper no. 232.
+
+[Service Delivery and Efficiency in Danish Local Governments: A Comprehensive Approach](https://en.rockwoolfonden.dk/publications/service-delivery-and-efficiency-in-danish-local-governments-a-comprehensive-approach/) (with Peter Bogetoft). Rockwool Foundation Study Paper no. 231.
+
+[The Impact of Local Government Services on House Prices](https://en.rockwoolfonden.dk/publications/the-impact-of-local-government-services-on-house-prices/) (with Peter Bogetoft and Lasse Mathiesen). Rockwool Foundation Study Paper no. 230.
+
 [Explaining Cross-Country Differences in the Number of Judges per Capita](https://iacajournal.org/articles/10.36745/ijca.581). International Journal for Court Administration, vol. 15, issue 1, June 2024.
 
 [Benefit-of-the-doubt approach to workload indicators: Simplifying the use of case weights in court evaluations](https://www.sciencedirect.com/science/article/abs/pii/S0305048320307295) (with Peter Bogetoft). Omega, Volume 103, September 2021.
